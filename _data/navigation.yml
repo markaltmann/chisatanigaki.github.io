@@ -1,0 +1,15 @@
+main:
+  - title: "Vita"
+    url: /about/
+  - title: "Medien"
+    url: /medien/
+  - title: "Fotogallerie"
+    url: /gallery/
+  - title: "Termine"
+    url: /termine/
+  - title: "Konzertarchiv"
+    url: /concerts/
+  - title: "Trio Shulamit"
+    url: /trio/
+  - title: "Impressum"
+    url: /imprint/
